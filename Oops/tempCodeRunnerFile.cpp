@@ -1,0 +1,2 @@
+
+    Data *ptr = new Data;
